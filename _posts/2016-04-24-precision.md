@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Logos - λόγος
-datePublished: '2016-04-24T11:36:11.410Z'
-dateModified: '2016-04-24T11:34:55.493Z'
+datePublished: '2016-04-24T11:42:17.635Z'
+dateModified: '2016-04-24T11:40:18.248Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-precision.md
