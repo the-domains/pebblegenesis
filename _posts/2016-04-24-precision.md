@@ -1,32 +1,29 @@
 ---
-inFeed: false
+authors: []
+dateModified: '2016-04-24T12:16:10.823Z'
+datePublished: '2016-04-24T12:16:52.276Z'
 hasPage: true
+inFeed: true
 inNav: true
-inLanguage: null
 keywords: []
+publisher: {}
+title: The eye of glory
 description: Logos - λόγος
-datePublished: '2016-04-24T11:54:31.844Z'
-dateModified: '2016-04-24T11:52:41.118Z'
-title: ''
 author: []
+starred: true
 sourcePath: _posts/2016-04-24-precision.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 url: precision/index.html
-_type: WebPage
+_type: Article
 
 ---
-> * **_[In the beginning was the Word...][0]_**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a473a63-acbc-4437-9534-1f276691d6e4.jpg)
+
+> * _**[In the beginning was the Word...][0]**_
 
 Logos - λόγος
 
-Word \> Mind \> Image ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a473a63-acbc-4437-9534-1f276691d6e4.jpg)
+Word \> Mind \> Image
 
 [The Eye][1]
 
