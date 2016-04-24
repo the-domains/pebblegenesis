@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Logos - λόγος
-datePublished: '2016-04-24T13:05:48.357Z'
-dateModified: '2016-04-24T13:04:59.641Z'
+datePublished: '2016-04-24T13:10:06.002Z'
+dateModified: '2016-04-24T13:10:05.554Z'
 title: The glory that captivates the universe
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-24-precision.md
 published: true
 authors: []
@@ -23,8 +25,6 @@ _type: Article
 
 ---
 ![First born galaxy viewed by NASA](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a473a63-acbc-4437-9534-1f276691d6e4.jpg)
-
-**_The glory of the one _**
 
 > * _**[In the beginning was the Word...][0]**_
 
