@@ -1,6 +1,6 @@
 name: pebblegenesis
 favicon: null
-layout_spectrum: 0.73756
+layout_spectrum: 0.49627
 typography_spectrum: 0.892610008828342
 title: The beginning of Glory
 cta:
@@ -22,8 +22,8 @@ color:
     - '#877c7b'
     - '#4e617f'
     - '#f1daa8'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0
-  rhythmicContrast: 0.20943336561322212
+  rhythmicContrast: 0.5
 purpose: []
