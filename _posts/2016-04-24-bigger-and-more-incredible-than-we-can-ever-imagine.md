@@ -1,15 +1,24 @@
 ---
-dateModified: '2016-04-24T14:15:25.878Z'
-hasPage: false
 inFeed: true
+hasPage: true
 inNav: false
-title: Bigger and more incredible than we can ever imagine
+inLanguage: null
+keywords: []
 description: "It's the reality of the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our reality. But what you could possibly couldn't dream of is out there too and equally as real."
+datePublished: '2016-04-24T14:26:03.677Z'
+dateModified: '2016-04-24T14:25:25.972Z'
+title: Bigger and more incredible than we can ever imagine
 author: []
-starred: false
-datePublished: '2016-04-24T14:22:19.610Z'
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: bigger-and-more-incredible-than-we-can-ever-imagine/index.html
 _context: 'http://schema.org'
 _type: Article
 
