@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Logos - λόγος
-datePublished: '2016-04-24T11:33:06.127Z'
-dateModified: '2016-04-24T11:27:28.132Z'
+datePublished: '2016-04-24T11:34:36.804Z'
+dateModified: '2016-04-24T11:33:40.956Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-precision.md
@@ -17,9 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: precision/index.html
-_type: Article
+_type: Blurb
 
 ---
 > * **_[In the beginning was the Word...][0]_**
