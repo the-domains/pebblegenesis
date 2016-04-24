@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-04-24T12:16:10.823Z'
-datePublished: '2016-04-24T12:16:52.276Z'
+dateModified: '2016-04-24T12:50:25.753Z'
+datePublished: '2016-04-24T12:53:13.908Z'
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
 publisher: {}
-title: The eye of glory
+title: The glory that captivates the universe
 description: Logos - λόγος
 author: []
 starred: true
@@ -17,7 +17,7 @@ url: precision/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a473a63-acbc-4437-9534-1f276691d6e4.jpg)
+![First born galaxy viewed by NASA](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a473a63-acbc-4437-9534-1f276691d6e4.jpg)
 
 > * _**[In the beginning was the Word...][0]**_
 
