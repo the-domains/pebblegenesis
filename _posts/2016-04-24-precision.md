@@ -1,18 +1,23 @@
 ---
-authors: []
-dateModified: '2016-04-24T12:50:25.753Z'
-datePublished: '2016-04-24T12:53:13.908Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher: {}
-title: The glory that captivates the universe
 description: Logos - λόγος
+datePublished: '2016-04-24T12:58:42.271Z'
+dateModified: '2016-04-24T12:56:33.629Z'
+title: The glory that captivates the universe
 author: []
-starred: true
 sourcePath: _posts/2016-04-24-precision.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: precision/index.html
 _type: Article
 
