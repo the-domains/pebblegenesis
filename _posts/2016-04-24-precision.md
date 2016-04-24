@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Logos - λόγος
-datePublished: '2016-04-24T11:50:29.588Z'
-dateModified: '2016-04-24T11:49:28.004Z'
+datePublished: '2016-04-24T11:54:31.844Z'
+dateModified: '2016-04-24T11:52:41.118Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-precision.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: precision/index.html
 _type: WebPage
 
