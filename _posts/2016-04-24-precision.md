@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Eye
-datePublished: '2016-04-25T11:06:21.274Z'
-dateModified: '2016-04-25T11:05:44.725Z'
+datePublished: '2016-04-25T11:11:32.057Z'
+dateModified: '2016-04-25T11:11:21.428Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,6 @@ url: precision/index.html
 _type: Article
 
 ---
-The universe is captivated by the glory
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fb13400-7a02-4b45-94a2-de1b3ad3158b.jpg)
 
 [The Eye][0]
