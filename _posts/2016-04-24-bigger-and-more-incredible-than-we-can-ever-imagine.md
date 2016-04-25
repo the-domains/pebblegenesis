@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "It's the reality of the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our reality. Andyet what you couldn't possibly dream of is out there too and equally as real."
-datePublished: '2016-04-25T11:23:44.803Z'
-dateModified: '2016-04-25T11:23:34.093Z'
+datePublished: '2016-04-25T11:26:35.309Z'
+dateModified: '2016-04-25T11:23:54.409Z'
 title: Bigger and more incredible than we can ever imagine
 author: []
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
