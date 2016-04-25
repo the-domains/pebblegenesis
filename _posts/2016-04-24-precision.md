@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Eye
-datePublished: '2016-04-25T10:49:35.542Z'
-dateModified: '2016-04-25T10:43:00.441Z'
+datePublished: '2016-04-25T11:01:45.551Z'
+dateModified: '2016-04-25T11:01:18.042Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: precision/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99de1614-6dbc-464d-b421-93b5aeb5d8c6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fb13400-7a02-4b45-94a2-de1b3ad3158b.jpg)
 
 [The Eye][0]
 
