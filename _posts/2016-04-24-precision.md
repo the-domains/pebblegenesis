@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Eye
-datePublished: '2016-04-25T08:57:14.671Z'
-dateModified: '2016-04-25T08:56:42.329Z'
+datePublished: '2016-04-25T09:00:42.283Z'
+dateModified: '2016-04-25T09:00:33.062Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-24-precision.md
 published: true
 authors: []
