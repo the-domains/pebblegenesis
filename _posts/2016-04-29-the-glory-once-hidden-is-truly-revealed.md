@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T12:46:18.459Z'
-dateModified: '2016-04-29T12:46:18.109Z'
+datePublished: '2016-04-29T13:05:20.624Z'
+dateModified: '2016-04-29T13:05:06.569Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-29-the-glory-once-hidden-is-truly-revealed.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-the-glory-once-hidden-is-truly-revealed.md
-published: true
 url: the-glory-once-hidden-is-truly-revealed/index.html
 _type: Article
 
