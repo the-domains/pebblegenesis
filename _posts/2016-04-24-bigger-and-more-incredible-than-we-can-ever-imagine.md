@@ -4,13 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "It's the reality of the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our reality. And yet what you couldn't possibly dream of is out there too and equally as real."
-datePublished: '2016-04-25T12:25:08.881Z'
-dateModified: '2016-04-25T12:25:06.652Z'
-title: Bigger and more incredible than we can ever imagine
+description: The heavens declare the glory of God;
+datePublished: '2016-04-29T12:12:19.761Z'
+dateModified: '2016-04-29T12:11:51.500Z'
+title: 'Psalm 19 '
 author: []
-sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
-published: true
 authors: []
 publisher:
   name: null
@@ -18,12 +16,23 @@ publisher:
   url: null
   favicon: null
 starred: false
+sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
+published: true
 url: bigger-and-more-incredible-than-we-can-ever-imagine/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Bigger and more incredible than we can ever imagine
+# Psalm 19 
 
-It's the reality of the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our reality. And yet what you couldn't possibly dream of is out there too and equally as real.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/211d8142-e4b6-4fc6-9ce9-f12233755026.jpg)
+The heavens declare the glory of God;
+
+the skies proclaim the work of his hands.
+
+Day after day they pour forth speech;
+
+night after night they reveal knowledge.
+
+They have no speech, they use no words;
+
+no sound is heard from them.
