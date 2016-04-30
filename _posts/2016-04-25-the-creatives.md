@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The creatives
-datePublished: '2016-04-30T07:02:10.311Z'
-dateModified: '2016-04-30T07:01:42.134Z'
+datePublished: '2016-04-30T07:03:30.931Z'
+dateModified: '2016-04-30T07:02:11.092Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: the-creatives/index.html
 _type: Article
 
 ---
-The little specks of sand in service
+The little specks of sand in service. None is greater but servant of all.
 
 [The creatives][0]
 
