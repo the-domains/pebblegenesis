@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The creatives
-datePublished: '2016-04-30T06:37:36.363Z'
-dateModified: '2016-04-30T06:37:34.049Z'
+datePublished: '2016-04-30T07:02:10.311Z'
+dateModified: '2016-04-30T07:01:42.134Z'
 title: ''
 author:
   - name: ''
@@ -24,14 +24,13 @@ url: the-creatives/index.html
 _type: Article
 
 ---
-[What is man?][0]
+The little specks of sand in service
 
-[The creatives][1]
+[The creatives][0]
 
 The laborers 
 
 The servants
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dacca35-41b9-434e-a1c1-0d6a4b32d172.jpg)
 
-[0]: http://biblehub.com/psalms/8-3.htm
-[1]: http://the-end-is-neal.com/
+[0]: http://the-end-is-neal.com/
