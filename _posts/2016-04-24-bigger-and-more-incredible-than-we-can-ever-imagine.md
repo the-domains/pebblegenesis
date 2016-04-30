@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The heavens declare the glory of God;
-datePublished: '2016-04-30T07:23:33.748Z'
-dateModified: '2016-04-30T07:23:24.731Z'
+datePublished: '2016-04-30T07:25:02.031Z'
+dateModified: '2016-04-30T07:24:52.170Z'
 title: 'Psalm 19 '
 author: []
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
