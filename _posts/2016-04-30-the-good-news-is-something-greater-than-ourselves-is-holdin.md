@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T06:57:51.918Z'
-dateModified: '2016-04-30T06:57:08.531Z'
+datePublished: '2016-04-30T07:19:00.491Z'
+dateModified: '2016-04-30T07:05:37.948Z'
 title: 'Something greater than ourselves is holding this universe together and is inviting us to trash our idols and bow down our wills and cry out, "Please reveal to me your ..." '
 author: []
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
