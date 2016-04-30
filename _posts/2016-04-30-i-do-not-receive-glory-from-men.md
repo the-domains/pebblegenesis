@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: It can be equated to the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our true reality however it simply is not the only existing one. There is one reality greater than ourselves.
-datePublished: '2016-04-30T07:03:56.393Z'
-dateModified: '2016-04-30T07:03:56.153Z'
+datePublished: '2016-04-30T07:17:18.674Z'
+dateModified: '2016-04-30T07:17:02.560Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
