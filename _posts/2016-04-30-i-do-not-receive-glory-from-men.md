@@ -4,9 +4,9 @@ hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
-description: It can be equated to the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our true reality however is not the only existing one. There is one reality greater than ourselves.
-datePublished: '2016-04-30T06:08:35.774Z'
-dateModified: '2016-04-30T06:08:31.848Z'
+description: It can be equated to the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our true reality however it simply is not the only existing one. There is one reality greater than ourselves.
+datePublished: '2016-04-30T06:27:41.094Z'
+dateModified: '2016-04-30T06:27:18.649Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
@@ -22,7 +22,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-It can be equated to the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our true reality however is not the only existing one. There is one reality greater than ourselves.
+It can be equated to the spiritual matrix we are in. What we see here on earth on a daily basis is firmly planted as our true reality however it simply is not the only existing one. There is one reality greater than ourselves.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec5ad4c-7ded-4dc4-aabe-919a98cde14d.jpg)
 
 All glory recognized and attributed outside of ourselves is a gift. It is a revelation to stop and realize we are like a speck of sand on the beach of time.
