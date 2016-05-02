@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T02:08:34.255Z'
-dateModified: '2016-05-02T02:08:33.828Z'
+datePublished: '2016-05-02T02:38:08.100Z'
+dateModified: '2016-05-02T02:37:39.903Z'
 title: Master designer - G
 author: []
 sourcePath: _posts/2016-04-29-the-glory-once-hidden-is-truly-revealed.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-published: true
 url: master-designer-g/index.html
 _type: Article
 
