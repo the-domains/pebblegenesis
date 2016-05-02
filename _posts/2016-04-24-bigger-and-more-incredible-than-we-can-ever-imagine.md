@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The heavens declare the glory of God;
-datePublished: '2016-05-02T19:26:23.197Z'
-dateModified: '2016-05-02T19:26:01.899Z'
+datePublished: '2016-05-02T19:41:19.084Z'
+dateModified: '2016-05-02T19:26:27.882Z'
 title: Psalm 19
 author:
   - name: ''
