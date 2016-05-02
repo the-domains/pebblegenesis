@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The heavens declare the glory of God;
-datePublished: '2016-05-02T21:15:20.730Z'
-dateModified: '2016-05-02T21:15:04.057Z'
+datePublished: '2016-05-02T21:28:26.098Z'
+dateModified: '2016-05-02T21:28:19.632Z'
 title: Psalm 19
 author:
   - name: ''
@@ -27,11 +27,11 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d64c542-14c4-402e-8f2b-d2a6b0c40116.jpg)
 
-### Psalm 19
+### [Psalm 19][0]
 
 The heavens declare the glory of God;
 
-the skies proclaim the work of his hands.
+And their expanse is declaring the work of His hands
 
 Day after day they pour forth speech;
 
@@ -39,4 +39,6 @@ night after night they reveal knowledge.
 
 They have no speech, they use no words;
 
-no sound is heard from them.
+no sound is heard from them. 
+
+[0]: null
