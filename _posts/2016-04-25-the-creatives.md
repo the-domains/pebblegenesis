@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T02:33:09.549Z'
-dateModified: '2016-05-02T02:33:07.185Z'
+datePublished: '2016-05-02T19:40:53.412Z'
+dateModified: '2016-05-02T19:24:26.661Z'
 title: 'What no eye has seen, what no ear has heard, and what no human mind has conceived'
 author: []
+sourcePath: _posts/2016-04-25-the-creatives.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-the-creatives.md
-published: true
 url: what-no-eye-has-seen-what-no-ear-has-heard-and-what-no-hum/index.html
 _type: Article
 
