@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'For God, who said, “Let light shine out of darkness,” has shone in our hearts to give'
-datePublished: '2016-05-02T11:24:33.962Z'
-dateModified: '2016-05-02T11:24:26.311Z'
+datePublished: '2016-05-02T11:24:58.501Z'
+dateModified: '2016-05-02T11:24:51.563Z'
 title: ''
 author:
   - name: ''
