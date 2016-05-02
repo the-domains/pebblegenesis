@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T02:24:11.726Z'
-dateModified: '2016-05-02T02:23:52.658Z'
-title: ' '
+datePublished: '2016-05-02T19:23:52.848Z'
+dateModified: '2016-05-02T19:22:23.593Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
 published: true
@@ -23,7 +23,5 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88ad7a4f-a078-44c6-a9ab-4d145130cb93.jpg)
-
-# 
 
 # Something greater than ourselves is holding this universe together and is inviting us to trash our idols and bow down our wills. Our raw response will be to cry out, "Please reveal to me your ..."
