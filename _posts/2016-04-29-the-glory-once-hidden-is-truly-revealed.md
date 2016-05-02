@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T10:52:27.789Z'
-dateModified: '2016-05-02T10:52:00.780Z'
+datePublished: '2016-05-02T11:01:31.666Z'
+dateModified: '2016-05-02T11:01:21.422Z'
 title: "For God, who said, \"Let light shine out of darkness,\" made his light shine in our hearts to give us the light of the knowledge of God's glory displayed in the face of Christ."
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: master-designer-g/index.html
 _type: Article
 
