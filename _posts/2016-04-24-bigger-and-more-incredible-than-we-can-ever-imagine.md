@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Day after day they pour forth speech;
-datePublished: '2016-05-07T10:12:03.367Z'
-dateModified: '2016-05-07T10:12:02.919Z'
+datePublished: '2016-05-07T10:51:16.305Z'
+dateModified: '2016-05-07T10:50:51.500Z'
 title: The heavens declare the glory of God;
 author:
   - name: ''
