@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T11:53:09.110Z'
-dateModified: '2016-05-07T11:52:58.170Z'
+datePublished: '2016-05-07T11:53:21.332Z'
+dateModified: '2016-05-07T11:53:12.433Z'
 title: You can not see the glory until the eyes of your heart are opened.
 author: []
 sourcePath: _posts/2016-04-25-the-creatives.md
@@ -22,5 +22,3 @@ _type: Article
 
 ---
 # You can not see the glory until the eyes of your heart are opened.
-
-#
