@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'You can not see the glory until the eyes of your heart are opened by the God of the universe. '
-datePublished: '2016-05-07T11:29:56.948Z'
-dateModified: '2016-05-07T11:27:50.399Z'
-title: ''
+description: 'You can not see the glory until the eyes of your heart are opened ...Your eye is the lamp of your body. When your eye is healthy, your whole body is full of light, but when it is bad, your body is full of darkness.'
+datePublished: '2016-05-07T11:40:30.002Z'
+dateModified: '2016-05-07T11:40:19.478Z'
+title: 'On earth, no eye has seen, and no ear has heard, and no human mind has conceived of the treasures and pleasures found in knowing the God of all creation. '
 author: []
 sourcePath: _posts/2016-04-25-the-creatives.md
 authors: []
@@ -21,6 +21,6 @@ url: what-no-eye-has-seen-what-no-ear-has-heard-and-what-no-hum/index.html
 _type: Article
 
 ---
-_You can not see the glory until the eyes of your heart are opened by the God of the universe. _
+_**You can not see the glory until the eyes of your heart are opened ...**_Your eye is the lamp of your body. When your eye is healthy, your whole body is full of light, but when it is bad, your body is full of darkness.
 
 # On earth, no eye has seen, and no ear has heard, and no human mind has conceived of the treasures and pleasures found in knowing the God of all creation.
