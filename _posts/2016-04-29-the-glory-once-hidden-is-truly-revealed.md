@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T11:16:57.989Z'
-dateModified: '2016-05-07T11:16:38.282Z'
+datePublished: '2016-05-07T11:55:01.813Z'
+dateModified: '2016-05-07T11:54:55.969Z'
 title: 'For God, who said, “Let light shine out of darkness,” has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.'
 author:
   - name: ''
@@ -26,4 +26,4 @@ _type: Article
 # _For God, who said, "Let light shine out of darkness," has shone in our hearts to give _**_the light of the knowledge of the glory of God in the face of Jesus Christ._**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10797a56-1cd1-4d84-983b-7f95d33f57d7.jpg)
 
-_**You will open the eyes of the blind ... To open blind eyes , To bring out prisoners from the dungeon and those who dwell in darkness from the prison.**_
+_**You will open the eyes of the blind ... To open blind eyes , To bring out prisoners from the dungeon and those who dwell in darkness from the prison. **_
