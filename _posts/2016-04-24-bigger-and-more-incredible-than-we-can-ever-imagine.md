@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: And their expanse is declaring the work of His hands
-datePublished: '2016-05-07T10:02:08.913Z'
-dateModified: '2016-05-07T10:01:47.983Z'
-title: ''
+description: Day after day they pour forth speech;
+datePublished: '2016-05-07T10:12:03.367Z'
+dateModified: '2016-05-07T10:12:02.919Z'
+title: The heavens declare the glory of God;
 author:
   - name: ''
     url: ''
@@ -24,6 +24,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# Psalm 19
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
 ### The heavens declare the glory of God;
