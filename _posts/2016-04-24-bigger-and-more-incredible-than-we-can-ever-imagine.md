@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Day after day they pour forth speech;
-datePublished: '2016-05-07T11:54:04.926Z'
-dateModified: '2016-05-07T11:53:51.632Z'
-title: The heavens declare the glory of God;
+datePublished: '2016-05-07T12:18:52.074Z'
+dateModified: '2016-05-07T12:18:44.370Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,10 +24,13 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
+
 # Psalm 19
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
 ### The heavens declare the glory of God;
+
+### And their expanse is declaring the work of His hands
 
 And their expanse is declaring the work of His hands
 
