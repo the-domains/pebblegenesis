@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T09:58:11.029Z'
-dateModified: '2016-05-07T09:58:10.752Z'
-title: ''
+datePublished: '2016-05-07T12:14:55.225Z'
+dateModified: '2016-05-07T12:14:39.096Z'
+title: 'Something greater than ourselves is holding this universe together and if we could stop and acknowledge the glory. Our raw response will be to cry out, "Please reveal to me yourself ..."'
 author: []
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
 authors: []
@@ -23,6 +23,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88ad7a4f-a078-44c6-a9ab-4d145130cb93.jpg)
 
-# Something greater than ourselves is holding this universe together and we need to stop and acknowledge the glory. Our raw response will be to cry out, "Please reveal to me yourself ..."
+# Something greater than ourselves is holding this universe together and if we could stop and acknowledge the glory. Our raw response will be to cry out, "Please reveal to me yourself ..."
 
 ## And the man exclaimed, "I do believe; help me overcome my unbelief!"
