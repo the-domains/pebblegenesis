@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T11:48:23.783Z'
-dateModified: '2016-05-07T11:48:10.561Z'
+datePublished: '2016-05-07T11:53:09.110Z'
+dateModified: '2016-05-07T11:52:58.170Z'
 title: You can not see the glory until the eyes of your heart are opened.
 author: []
 sourcePath: _posts/2016-04-25-the-creatives.md
@@ -23,6 +23,4 @@ _type: Article
 ---
 # You can not see the glory until the eyes of your heart are opened.
 
-# On earth, no eye has seen, and no ear has heard, and no human mind has conceived of the treasures...
-
-# Your eye is the lamp of your body. When your eye is healthy, your whole body is full of light
+#
