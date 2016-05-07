@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T10:00:16.500Z'
-dateModified: '2016-05-07T10:00:12.616Z'
+datePublished: '2016-05-07T11:16:57.989Z'
+dateModified: '2016-05-07T11:16:38.282Z'
 title: 'For God, who said, “Let light shine out of darkness,” has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.'
 author:
   - name: ''
