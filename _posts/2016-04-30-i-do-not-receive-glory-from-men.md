@@ -2,11 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Our desire is to be like a pebble sending a ripple of the truth that the Gospel is all about the treasure of God's glory. "
-datePublished: '2016-05-07T12:03:21.719Z'
-dateModified: '2016-05-07T12:03:12.780Z'
+datePublished: '2016-05-07T12:12:28.528Z'
+dateModified: '2016-05-07T12:12:21.241Z'
 title: ''
 author:
   - name: ''
