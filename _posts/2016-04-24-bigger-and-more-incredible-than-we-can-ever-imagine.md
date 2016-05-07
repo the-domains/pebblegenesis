@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: And their expanse is declaring the work of His hands
-datePublished: '2016-05-07T10:01:42.404Z'
-dateModified: '2016-05-07T10:01:35.066Z'
-title: ' '
+datePublished: '2016-05-07T10:02:08.913Z'
+dateModified: '2016-05-07T10:01:47.983Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -25,8 +25,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
-
-### 
 
 ### The heavens declare the glory of God;
 
