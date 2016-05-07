@@ -4,15 +4,14 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: The heavens declare the glory of God;
-datePublished: '2016-05-02T21:45:20.728Z'
-dateModified: '2016-05-02T21:45:06.070Z'
-title: Psalm 19
+description: And their expanse is declaring the work of His hands
+datePublished: '2016-05-07T10:01:42.404Z'
+dateModified: '2016-05-07T10:01:35.066Z'
+title: ' '
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
-published: true
 authors: []
 publisher:
   name: null
@@ -27,9 +26,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-### [Psalm 19][0]
+### 
 
-The heavens declare the glory of God;
+### The heavens declare the glory of God;
 
 And their expanse is declaring the work of His hands
 
@@ -39,6 +38,4 @@ night after night they reveal knowledge.
 
 They have no speech, they use no words;
 
-no sound is heard from them. 
-
-[0]: http://biblehub.com/net/psalms/19.htm
+no sound is heard from them.
