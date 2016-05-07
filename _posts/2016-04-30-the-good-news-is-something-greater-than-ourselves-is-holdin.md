@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T19:39:02.930Z'
-dateModified: '2016-05-02T19:38:44.803Z'
+datePublished: '2016-05-07T09:58:11.029Z'
+dateModified: '2016-05-07T09:58:10.752Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
-published: true
 authors: []
 publisher:
   name: null
