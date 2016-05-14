@@ -1,17 +1,22 @@
 ---
-authors: []
-dateModified: '2016-05-14T23:01:41.307Z'
-datePublished: '2016-05-14T23:02:36.101Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
-publisher: {}
-title: You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
 description: '"I am the resurrection and the life." Jesus claims to be the One who will raise all who believe in Him from physical death to everlasting life.'
+datePublished: '2016-05-14T23:14:04.641Z'
+dateModified: '2016-05-14T23:14:01.972Z'
+title: You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
 author: []
-starred: false
 sourcePath: _posts/2016-04-25-the-creatives.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: what-no-eye-has-seen-what-no-ear-has-heard-and-what-no-hum/index.html
 _type: Article
 
