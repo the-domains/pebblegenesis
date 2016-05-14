@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-14T15:19:51.315Z'
-datePublished: '2016-05-14T22:42:37.693Z'
+dateModified: '2016-05-14T22:43:09.753Z'
+datePublished: '2016-05-14T22:44:35.208Z'
 hasPage: true
 inFeed: true
 inNav: false
