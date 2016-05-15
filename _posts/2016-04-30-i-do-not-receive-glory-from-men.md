@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Our desire is to be like a pebble sending a ripple of the truth that the Gospel is all about the treasure of God's glory. "
-datePublished: '2016-05-14T12:28:09.785Z'
-dateModified: '2016-05-07T12:19:40.918Z'
+datePublished: '2016-05-15T00:38:37.135Z'
+dateModified: '2016-05-15T00:38:31.930Z'
 title: ''
 author:
   - name: ''
@@ -26,3 +26,5 @@ _type: Article
 ---
 _Our desire is to be like a pebble sending a ripple of the truth that the Gospel is all about the treasure of God's glory. _
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f64b318-1994-4f4b-bdae-349015fae6f5.jpg)
+
+_and what starts as a ripple will be of movement of glory to those who will see._
