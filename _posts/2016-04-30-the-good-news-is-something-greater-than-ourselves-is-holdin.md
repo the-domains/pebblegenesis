@@ -1,26 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'And the man exclaimed, "I do believe; help me overcome my unbelief!"'
-datePublished: '2016-05-15T00:32:02.510Z'
-dateModified: '2016-05-15T00:31:57.669Z'
-title: Something greater than ourselves is holding this universe together.
-author: []
-sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-15T08:34:45.846Z'
+datePublished: '2016-05-15T08:35:07.484Z'
+hasPage: true
+inFeed: true
+inNav: true
+keywords: []
+publisher: {}
+title: 'And the man exclaimed, "I do believe; help me overcome my unbelief!"'
+description: Something greater than ourselves is holding this universe together and has been calling the shots long before we came along. Could it be this life and all of its amazing wonders is proof enough we should humble ourselves to some possibilities best articulated by...
+author: []
 starred: false
+sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
 url: efccceaa-e207-4635-9092-5f2687e2d4e0/index.html
 _type: Article
 
 ---
-# Something greater than ourselves is holding this universe together.
+# And the man exclaimed, "I do believe; help me overcome my unbelief!"
 
-> And the man exclaimed, "I do believe; help me overcome my unbelief!"
+Something greater than ourselves is holding this universe together and has been calling the shots long before we came along. Could it be this life and all of its amazing wonders is proof enough we should humble ourselves to some possibilities best articulated by...
