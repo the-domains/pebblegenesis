@@ -1,14 +1,14 @@
 ---
 authors: []
-dateModified: '2016-05-15T10:09:59.458Z'
-datePublished: '2016-05-15T10:10:14.670Z'
+dateModified: '2016-05-15T14:51:54.880Z'
+datePublished: '2016-05-15T14:52:04.907Z'
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
 publisher: {}
 title: 'And the man exclaimed, "I do believe; help me overcome my unbelief!" '
-description: Something greater than ourselves is holding this universe together and has been calling the shots long before we came along. Could it be this life and all of its amazing wonders is proof enough we should humble ourselves to some possibilities best articulated by...
+description: ''
 author: []
 starred: false
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
