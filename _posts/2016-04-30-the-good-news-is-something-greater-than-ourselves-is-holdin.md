@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-15T00:26:30.889Z'
-dateModified: '2016-05-15T00:25:19.541Z'
+description: 'And the man exclaimed, "I do believe; help me overcome my unbelief!"'
+datePublished: '2016-05-15T00:32:02.510Z'
+dateModified: '2016-05-15T00:31:57.669Z'
 title: Something greater than ourselves is holding this universe together.
 author: []
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
@@ -23,6 +23,4 @@ _type: Article
 ---
 # Something greater than ourselves is holding this universe together.
 
-## [And the man exclaimed, "I do believe; help me overcome my unbelief!"][0]
-
-[0]: null
+> And the man exclaimed, "I do believe; help me overcome my unbelief!"
