@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Jesus claims, "I am the resurrection and the life." '
-datePublished: '2016-05-15T00:17:00.743Z'
-dateModified: '2016-05-15T00:15:37.200Z'
+datePublished: '2016-05-15T00:30:19.821Z'
+dateModified: '2016-05-15T00:29:45.902Z'
 title: You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
 author:
   - name: ''
