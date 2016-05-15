@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-15T09:24:50.754Z'
-datePublished: '2016-05-15T09:25:39.794Z'
+dateModified: '2016-05-15T09:55:00.256Z'
+datePublished: '2016-05-15T09:55:56.213Z'
 hasPage: false
 inFeed: true
 inNav: false
 keywords: []
 publisher: {}
-title: The Word that gives life holds it together for the glory...
+title: It will be of movement of glory to those who will see.
 description: "Our desire is to be like a pebble sending a ripple of the truth that the Gospel is all about the treasure of God's glory."
 author: []
 starred: false
@@ -16,8 +16,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# The Word that gives life holds it together for the glory...
+# It will be of movement of glory to those who will see.
 
 _Our desire is to be like a pebble sending a ripple of the truth that the Gospel is all about the treasure of God's glory._
-
-_and what starts as a ripple will be of movement of glory to those who will see._
