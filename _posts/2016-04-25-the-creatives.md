@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-15T10:13:28.654Z'
-datePublished: '2016-05-15T10:13:54.114Z'
+dateModified: '2016-05-15T14:54:39.722Z'
+datePublished: '2016-05-15T14:54:54.197Z'
 hasPage: true
 inFeed: true
 inNav: false
 keywords: []
 publisher: {}
-title: You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
+title: You can not see the glory until the eyes of your heart are opened.
 description: 'Jesus claims, "I am the resurrection and the life." '
 author: []
 starred: false
@@ -18,4 +18,4 @@ _type: Article
 ---
 <article style=""><h1>The Resurrection and the Life</h1><p>Jesus claims, "I am the resurrection and the life." </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fe97094c2216bccb91e03b311e4e7370c3823d4.jpg" /></article>
 
-## You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
+## You can not see the glory until the eyes of your heart are opened.
