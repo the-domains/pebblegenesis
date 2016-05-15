@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T00:25:13.211Z'
-dateModified: '2016-05-15T00:19:03.431Z'
+datePublished: '2016-05-15T00:26:30.889Z'
+dateModified: '2016-05-15T00:25:19.541Z'
 title: Something greater than ourselves is holding this universe together.
 author: []
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
