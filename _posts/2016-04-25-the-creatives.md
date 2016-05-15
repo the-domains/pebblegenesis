@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Jesus claims, "I am the resurrection and the life." are true treasure.'
-datePublished: '2016-05-15T00:05:20.399Z'
-dateModified: '2016-05-14T23:44:56.475Z'
+description: 'Jesus claims, "I am the resurrection and the life." '
+datePublished: '2016-05-15T00:17:00.743Z'
+dateModified: '2016-05-15T00:15:37.200Z'
 title: You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
 author:
   - name: ''
@@ -23,6 +23,6 @@ url: what-no-eye-has-seen-what-no-ear-has-heard-and-what-no-hum/index.html
 _type: Article
 
 ---
-<article style=""><h1>The Resurrection and the Life</h1><p>Jesus claims, "I am the resurrection and the life." are true treasure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fe97094c2216bccb91e03b311e4e7370c3823d4.jpg" /></article>
+<article style=""><h1>The Resurrection and the Life</h1><p>Jesus claims, "I am the resurrection and the life." </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fe97094c2216bccb91e03b311e4e7370c3823d4.jpg" /></article>
 
 # You can not see the glory until the eyes of your heart are opened. So open my eyes that I might know the real treasure.
