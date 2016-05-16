@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-15T15:01:55.003Z'
-datePublished: '2016-05-15T15:02:03.881Z'
+dateModified: '2016-05-16T12:06:16.802Z'
+datePublished: '2016-05-16T12:06:28.245Z'
 hasPage: true
 inFeed: true
 inNav: true
@@ -18,4 +18,4 @@ _type: Article
 ---
 # And the man exclaimed, "I do believe; help me overcome my unbelief!" ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f431ed7f-7ec3-4bc7-9d21-32ccb64fb188.jpg)
 
-Something greater than ourselves is holding this universe together and has been calling the shots long before we came along. Could it be this life and all of its amazing wonders is proof enough we should humble ourselves to some possibilities best articulated by...
+ESomething greater than ourselves is holding this universe together and has been making designs and plans long before we existed. Could it be this life and all of its amazing wonders are evidence enough that we should be humbled.
