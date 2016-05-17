@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-15T14:59:31.842Z'
-datePublished: '2016-05-15T14:59:40.339Z'
+dateModified: '2016-05-17T07:42:36.285Z'
+datePublished: '2016-05-17T07:42:45.723Z'
 hasPage: true
 inFeed: true
 inNav: false
 keywords: []
 publisher: {}
-title: You can not see the glory until the eyes of your heart are opened.
+title: 'You can not see the glory until the eyes of your heart are opened. '
 description: 'Jesus claims, "I am the resurrection and the life." '
 author: []
 starred: false
