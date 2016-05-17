@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: " \"Didn't I tell you that you would see God's glory if you believe?\""
-datePublished: '2016-05-17T08:59:15.685Z'
-dateModified: '2016-05-17T08:58:49.635Z'
+datePublished: '2016-05-17T08:59:53.082Z'
+dateModified: '2016-05-17T08:59:16.296Z'
 title: "This is a message of power. It is the testimony of God. It is the basis of faith in God's power and not human wisdom."
 author: []
 sourcePath: _posts/2016-05-15-and-even-if-our-gospel-is-veiled-it-is-veiled-to-those-who.md
@@ -26,4 +26,4 @@ _type: Article
 
 # It rests not on the excellency of speech or of human understanding but it is a demonstration of the spirit and of power.
 
-"Didn't I tell **you **that **you would see **God's **glory **if **you **believe?"
+_**"Didn't I tell you that you would see God's glory if you believe?"**_
