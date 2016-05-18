@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:50:10.985Z'
-dateModified: '2016-05-18T07:49:38.230Z'
-title: ' '
+datePublished: '2016-05-18T07:50:40.393Z'
+dateModified: '2016-05-18T07:50:19.655Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
 authors: []
@@ -23,5 +23,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b0042ac-be69-478a-a6b6-621ccd644ec8.jpg)
-
-#
