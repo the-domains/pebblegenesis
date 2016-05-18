@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:37:24.673Z'
-dateModified: '2016-05-18T07:37:18.275Z'
-title: "Our desire is to be like a pebble sending a ripple of truth proclaiming that the Gospel is all about the treasure of God's glory."
+datePublished: '2016-05-18T07:42:57.909Z'
+dateModified: '2016-05-18T07:42:02.369Z'
+title: "  is to be like a pebble sending a ripple of truth proclaiming that the Gospel is all about the treasure of God's glory."
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
 authors: []
@@ -24,4 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b0042ac-be69-478a-a6b6-621ccd644ec8.jpg)
 
-# Our desire is to be like a pebble sending a ripple of truth proclaiming that the Gospel is all about the treasure of God's glory.
+# [is to be like a pebble sending a ripple of truth proclaiming that the Gospel is all about the treasure of God's glory.][0]
+
+[0]: null
