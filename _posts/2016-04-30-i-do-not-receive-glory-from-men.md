@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'https://thegrid.ai/pebblegenesis/'
-datePublished: '2016-05-18T07:59:39.220Z'
-dateModified: '2016-05-18T07:58:11.297Z'
+description: ''
+datePublished: '2016-05-18T08:08:08.832Z'
+dateModified: '2016-05-18T08:07:40.197Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
@@ -24,5 +24,11 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b0042ac-be69-478a-a6b6-621ccd644ec8.jpg)
 
-https://thegrid.ai/pebblegenesis/
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3c137c-7e53-4b94-a976-685f8742ac33.jpg)
+* [Glory][0]
+
+* [Treasure][0]
+
+[Gospel][1]
+
+[0]: https://thegrid.ai/pebblegenesis/
+[1]: https://thegrid.ai/pebblegenesis/master-designer-g/
