@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T07:45:28.922Z'
-dateModified: '2016-05-18T07:45:25.349Z'
+datePublished: '2016-05-18T07:46:24.853Z'
+dateModified: '2016-05-18T07:45:57.644Z'
 title: " is to be like a pebble sending a ripple of truth proclaiming that the Gospel is all about the treasure of God's glory."
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
