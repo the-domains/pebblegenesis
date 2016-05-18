@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T08:08:08.832Z'
-dateModified: '2016-05-18T08:07:40.197Z'
+datePublished: '2016-05-18T08:08:26.220Z'
+dateModified: '2016-05-18T08:08:15.779Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
