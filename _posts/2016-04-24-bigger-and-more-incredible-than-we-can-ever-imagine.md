@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: And their expanse is declaring the work of His hands
-datePublished: '2016-05-21T15:56:00.089Z'
-dateModified: '2016-05-21T15:55:37.962Z'
+datePublished: '2016-05-21T16:04:46.593Z'
+dateModified: '2016-05-21T16:04:18.448Z'
 title: 'Psalm 19 '
 author: []
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
@@ -18,9 +18,10 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+What is this all about? [It's about mindshare. ][0]<<<< Click on it to know more.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-# [Psalm 19 ][0]
+# [Psalm 19 ][1]
 
 ### The heavens declare the glory of God;
 
@@ -36,4 +37,5 @@ _They have no speech, they use no words;_
 
 _no sound is heard from them._
 
-[0]: null
+[0]: https://thegrid.ai/mindpebble/13667f92-cbd3-4376-8827-2cbe38b66769/
+[1]: null
