@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "What is the purpose of mindpebble? We desire to be a ripple of the truth proclaiming the Gospel is all about God 's glory. The mindshare comes from the mind of Christ uniting God centeredness not man centeredness."
-datePublished: '2016-05-21T17:21:55.815Z'
-dateModified: '2016-05-21T17:21:20.835Z'
+datePublished: '2016-05-21T17:22:25.268Z'
+dateModified: '2016-05-21T17:22:00.790Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
