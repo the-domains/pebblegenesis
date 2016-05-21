@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "What is the purpose of mindpebble? We desire to be a ripple of the truth proclaiming the Gospel is all about God 's glory. The mindshare comes from the mind of Christ uniting God centeredness not man centeredness."
-datePublished: '2016-05-21T17:40:30.090Z'
-dateModified: '2016-05-21T17:40:21.823Z'
+datePublished: '2016-05-21T17:43:38.974Z'
+dateModified: '2016-05-21T17:43:30.675Z'
 title: ''
 author:
   - name: ''
@@ -30,7 +30,6 @@ What is the purpose of mindpebble? We desire to be a ripple of the truth proclai
 * [Transformation][2]
 * [Power][3]
 * [Spirit][4]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b0042ac-be69-478a-a6b6-621ccd644ec8.jpg)
 
 [0]: https://thegrid.ai/pebblegenesis/
 [1]: https://thegrid.ai/pebblegenesis/the-real-revelation-is-to-have-the-understanding-of-the-know/
