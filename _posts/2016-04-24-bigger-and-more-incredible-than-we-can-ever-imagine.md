@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: And their expanse is declaring the work of His hands
-datePublished: '2016-05-21T16:05:07.631Z'
-dateModified: '2016-05-21T16:04:53.522Z'
+datePublished: '2016-05-22T05:16:13.317Z'
+dateModified: '2016-05-22T05:16:04.120Z'
 title: 'Psalm 19 '
 author: []
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
@@ -18,7 +18,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-What is this all about? [It's about mindshare. ][0]<<<< Click on it to know more.
+What is this all about? Check it out. [It's about presuppositions ][0]<<<< Click here to know more or just take your time and explore the revelation before you. It takes time to consider what's before you so stop yourself from rushing off.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
 # [Psalm 19 ][1]
