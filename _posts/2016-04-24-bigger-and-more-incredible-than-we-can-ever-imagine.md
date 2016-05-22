@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: And their expanse is declaring the work of His hands
-datePublished: '2016-05-22T08:47:32.162Z'
-dateModified: '2016-05-22T08:23:41.091Z'
+datePublished: '2016-05-22T08:49:48.788Z'
+dateModified: '2016-05-22T08:49:32.533Z'
 title: 'Psalm 19 '
 author: []
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
