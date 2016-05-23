@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-23T12:34:26.552Z'
-datePublished: '2016-05-23T12:35:18.998Z'
+dateModified: '2016-05-23T12:57:14.397Z'
+datePublished: '2016-05-23T12:57:23.898Z'
 description: And their expanse is declaring the work of His hands
 hasPage: true
 inFeed: true
@@ -18,7 +18,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-## Do you want to become rock solid centered? Then welcome, this is what this website all about **[][0]**_**[concepts and presuppositions of your creator][0]**_
+## \*Do you want to become rock solid centered? Then welcome, this this website is about _**[concepts and presuppositions of what life is all about.][0]**_
 
 # [Psalm 19][1]
 
