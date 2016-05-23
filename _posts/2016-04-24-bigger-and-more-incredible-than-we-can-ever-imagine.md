@@ -1,27 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: And their expanse is declaring the work of His hands
-datePublished: '2016-05-22T08:49:48.788Z'
-dateModified: '2016-05-22T08:49:32.533Z'
-title: 'Psalm 19 '
-author: []
-sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
 authors: []
-publisher: null
+dateModified: '2016-05-23T11:33:44.756Z'
+datePublished: '2016-05-23T11:34:14.352Z'
+description: "You're here! Welcome. What is this website all about? It's about concepts and presuppositions. By what authority? No other higher authority exists than this one. I AM."
+hasPage: true
+inFeed: true
+inNav: true
+keywords: []
+title: Psalm 19
+author: []
 starred: false
+sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
 url: psalm-19/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-You're here! Welcome. What is this website all about? IT's ABOUT THE TRUTH. [**It's about these concepts and presuppositions**][0]<<<< Click here to know more or just take your time and explore the revelation before you. It takes time to consider what's before you so stop yourself from rushing off.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-# [Psalm 19 ][1]
+You're here! Welcome. What is this website all about? **[It's about concepts and presuppositions. ][0]**By what authority? No other higher authority exists than this one. I AM.
+
+# [Psalm 19][1]
 
 ### The heavens declare the glory of God;
 
