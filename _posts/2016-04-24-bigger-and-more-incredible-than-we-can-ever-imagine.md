@@ -1,8 +1,8 @@
 ---
 authors: []
-dateModified: '2016-05-23T11:57:20.228Z'
-datePublished: '2016-05-23T11:57:44.907Z'
-description: " You're here! Welcome. What is this website all about? It's about the most preeminent concepts and presuppositions. By what authority? No other higher authority exists than this one. I AM."
+dateModified: '2016-05-23T12:34:26.552Z'
+datePublished: '2016-05-23T12:35:18.998Z'
+description: And their expanse is declaring the work of His hands
 hasPage: true
 inFeed: true
 inNav: true
@@ -18,7 +18,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-You're here! Welcome. What is this website all about? **[It's about the most ][0]**preeminent**[concepts and presuppositions. ][0]**By what authority? No other higher authority exists than this one. I AM.
+## Do you want to become rock solid centered? Then welcome, this is what this website all about **[][0]**_**[concepts and presuppositions of your creator][0]**_
 
 # [Psalm 19][1]
 
