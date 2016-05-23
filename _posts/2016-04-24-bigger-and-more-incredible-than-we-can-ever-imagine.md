@@ -1,8 +1,8 @@
 ---
 authors: []
-dateModified: '2016-05-23T11:47:20.265Z'
-datePublished: '2016-05-23T11:47:34.263Z'
-description: "You're here! Welcome. What is this website all about? It's about concepts and presuppositions. By what authority? No other higher authority exists than this one. I AM. "
+dateModified: '2016-05-23T11:57:20.228Z'
+datePublished: '2016-05-23T11:57:44.907Z'
+description: " You're here! Welcome. What is this website all about? It's about the most preeminent concepts and presuppositions. By what authority? No other higher authority exists than this one. I AM."
 hasPage: true
 inFeed: true
 inNav: true
@@ -18,7 +18,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-You're here! Welcome. What is this website all about? **[It's about concepts and presuppositions. ][0]**By what authority? No other higher authority exists than this one. I AM. 
+You're here! Welcome. What is this website all about? **[It's about the most ][0]**preeminent**[concepts and presuppositions. ][0]**By what authority? No other higher authority exists than this one. I AM.
 
 # [Psalm 19][1]
 
