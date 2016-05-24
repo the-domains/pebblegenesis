@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-23T13:11:02.758Z'
-datePublished: '2016-05-23T13:11:26.101Z'
+dateModified: '2016-05-24T06:30:31.978Z'
+datePublished: '2016-05-24T06:30:53.111Z'
 description: And their expanse is declaring the work of His hands
 hasPage: true
 inFeed: true
@@ -18,9 +18,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
 
-## \*_**[about][0]**_
-
-# [Psalm 19][1]
+# [Psalm 19][0]
 
 ### The heavens declare the glory of God;
 
@@ -36,5 +34,4 @@ _They have no speech, they use no words;_
 
 _no sound is heard from them._
 
-[0]: https://thegrid.ai/mindpebble/13667f92-cbd3-4376-8827-2cbe38b66769/
-[1]: null
+[0]: null
