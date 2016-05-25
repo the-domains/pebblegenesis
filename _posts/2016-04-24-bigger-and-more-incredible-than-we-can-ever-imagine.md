@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-24T06:41:21.253Z'
-datePublished: '2016-05-24T06:41:57.826Z'
+dateModified: '2016-05-25T13:22:14.316Z'
+datePublished: '2016-05-25T13:24:23.253Z'
 description: And their expanse is declaring the work of His hands
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
-title: The heavens declare the glory of God;
+title: Psalm 19
 author: []
 starred: false
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
