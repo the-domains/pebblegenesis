@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-30T08:48:52.874Z'
-datePublished: '2016-05-30T08:49:08.554Z'
+dateModified: '2016-05-30T09:00:09.085Z'
+datePublished: '2016-05-30T09:00:24.557Z'
 description: ''
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
-title: ''
+title: "So one evening I'm sitting out back gazing into the sky when I see the reality of the matrix."
 author: []
 starred: false
 sourcePath: _posts/2016-04-30-the-good-news-is-something-greater-than-ourselves-is-holdin.md
