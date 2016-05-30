@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-30T09:00:09.085Z'
-datePublished: '2016-05-30T09:00:24.557Z'
+dateModified: '2016-05-30T09:01:53.344Z'
+datePublished: '2016-05-30T09:25:10.779Z'
 description: ''
 hasPage: true
 inFeed: true
@@ -18,5 +18,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38322135-06f5-45b4-83d1-f68a30897b59.jpg)
 
 <article style=""><h1>What is the purpose of mindpebble?</h1></article>
-
-https://thegrid.ai/mindpebble/what-is-the-purpose-of-mindpebble/
