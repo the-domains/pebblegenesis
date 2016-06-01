@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-06-01T04:23:58.454Z'
-datePublished: '2016-06-01T04:24:12.088Z'
+dateModified: '2016-06-01T13:13:50.447Z'
+datePublished: '2016-06-01T13:14:14.787Z'
 description: "What is the purpose of mindpebble? We desire to bring glory through a mindshare of the truth proclaiming the Gospel is all about God's glory."
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
-title: Centered life
+title: 'What are you centered on? http://biblehub.com/nasb/isaiah/48.htm Centered life'
 author: []
 starred: false
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
@@ -16,7 +16,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Centered life
+# What are you centered on? http://biblehub.com/nasb/isaiah/48.htm Centered life
 
 What is the purpose of mindpebble? We desire to bring glory through a mindshare of the truth proclaiming the Gospel is all about God's glory.
 
