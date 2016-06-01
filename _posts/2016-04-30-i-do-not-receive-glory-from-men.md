@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-31T06:24:03.345Z'
-datePublished: '2016-05-31T06:24:27.610Z'
+dateModified: '2016-06-01T04:04:11.384Z'
+datePublished: '2016-06-01T04:04:20.744Z'
 description: "What is the purpose of mindpebble? We desire to bring glory through a mindshare of the truth proclaiming the Gospel is all about God's glory."
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
-title: ''
+title: 'The new life is marked by the fingerprints of the most High. You will not escape His touch... '
 author: []
 starred: false
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
@@ -16,6 +16,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# The new life is marked by the fingerprints of the most High. You will not escape His touch... 
+
 What is the purpose of mindpebble? We desire to bring glory through a mindshare of the truth proclaiming the Gospel is all about God's glory.
 
 "Who has known the **mind **of the Lord so as to instruct him?" But **we have **the **mind **of Christ. **...**
