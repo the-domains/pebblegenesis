@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-06-01T13:21:29.344Z'
-datePublished: '2016-06-01T13:21:39.648Z'
+dateModified: '2016-06-01T13:40:53.806Z'
+datePublished: '2016-06-01T13:41:20.857Z'
 description: "What is the purpose of mindpebble? We desire to bring glory through a mindshare of the truth proclaiming the Gospel is all about God's glory."
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
-title: The purpose centered life starts here...
+title: The purpose centered life
 author: []
 starred: false
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
@@ -16,7 +16,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# The purpose centered life starts here...
+# The purpose centered life
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c4d82c2-8268-4b37-b273-16fecafce4bb.jpg)
 
 What is the purpose of mindpebble? We desire to bring glory through a mindshare of the truth proclaiming the Gospel is all about God's glory.
 
