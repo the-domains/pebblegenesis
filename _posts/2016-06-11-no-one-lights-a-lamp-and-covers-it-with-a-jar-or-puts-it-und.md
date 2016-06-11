@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-11T12:58:39.243Z'
-dateModified: '2016-06-11T12:58:01.684Z'
-title: 'We proclaim this glory is the transforming power of our lives. '
+datePublished: '2016-06-11T13:04:08.229Z'
+dateModified: '2016-06-11T12:58:43.081Z'
+title: We proclaim this glory is the transforming power of our lives.
 author: []
 sourcePath: >-
   _posts/2016-06-11-no-one-lights-a-lamp-and-covers-it-with-a-jar-or-puts-it-und.md
