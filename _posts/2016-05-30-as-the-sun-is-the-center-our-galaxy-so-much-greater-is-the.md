@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-11T13:22:05.516Z'
-dateModified: '2016-06-11T13:21:56.243Z'
+datePublished: '2016-06-11T13:40:52.337Z'
+dateModified: '2016-06-11T13:22:13.970Z'
 title: >-
   But it is a gift from the Highest that the word can reveal the power and glory
   of centrality of Jesus Christ being everything to all of life.
