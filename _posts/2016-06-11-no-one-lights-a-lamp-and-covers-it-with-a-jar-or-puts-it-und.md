@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-11T09:52:29.442Z'
-dateModified: '2016-06-11T09:50:32.437Z'
+datePublished: '2016-06-11T12:52:37.797Z'
+dateModified: '2016-06-11T09:52:32.263Z'
 title: He displays the glory
 author: []
 sourcePath: >-
