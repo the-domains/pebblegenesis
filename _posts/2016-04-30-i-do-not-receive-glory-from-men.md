@@ -7,8 +7,8 @@ keywords: []
 description: >-
   What is the purpose of mindpebble? We desire to bring glory through a
   mindshare of the truth proclaiming the Gospel is all about God's glory.
-datePublished: '2016-06-11T13:41:55.382Z'
-dateModified: '2016-06-11T13:41:27.149Z'
+datePublished: '2016-06-11T13:58:23.506Z'
+dateModified: '2016-06-11T13:56:57.586Z'
 title: The purpose centered life
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
@@ -37,6 +37,6 @@ What is the purpose of mindpebble? We desire to bring glory through a mindshare 
 [0]: https://thegrid.ai/pebblegenesis/
 [1]: https://thegrid.ai/pebblegenesis/the-real-revelation-is-to-have-the-understanding-of-the-know/
 [2]: https://thegrid.ai/pebblegenesis/master-designer-g/ "Gospel "
-[3]: https://thegrid.ai/pebblegenesis/efccceaa-e207-4635-9092-5f2687e2d4e0/
+[3]: http://biblehub.com/romans/12-1.htm
 [4]: http://www.worshiptogether.com/songs/how-great-is-our-god/
 [5]: http://biblehub.com/1_corinthians/2-15.htm
