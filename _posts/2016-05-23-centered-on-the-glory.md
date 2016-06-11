@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-11T08:12:22.440Z'
-dateModified: '2016-06-11T08:12:15.231Z'
+datePublished: '2016-06-11T08:30:29.763Z'
+dateModified: '2016-06-11T08:28:26.617Z'
 title: centered on the glory forever and ever...
 author:
   - name: ''
@@ -24,14 +24,14 @@ _type: Article
 
 # centered on the glory forever and ever...
 
-[**_The Splendor of the King clothed in majesty_**][0]
+[The Splendor of the King clothed in majesty][0]
 
-[**_Let all the earth rejoice all the earth rejoice_**][0]
+[Let all the earth rejoice all the earth rejoice][0]
 
-[**_He wraps Himself in light and darkness tries to hide_**][0]
+[He wraps Himself in light and darkness tries to hide][0]
 
-[**_And trembles at His voice _**][0]
+[And trembles at His voice ][0]
 
-[**_And trembles at His voice_**][0]
+[And trembles at His voice][0]
 
 [0]: http://www.worshiptogether.com/songs/how-great-is-our-god/
