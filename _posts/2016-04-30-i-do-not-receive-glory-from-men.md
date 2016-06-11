@@ -7,8 +7,8 @@ keywords: []
 description: >-
   What is the purpose of mindpebble? We desire to bring glory through a
   mindshare of the truth proclaiming the Gospel is all about God's glory.
-datePublished: '2016-06-11T14:45:31.701Z'
-dateModified: '2016-06-11T14:45:18.248Z'
+datePublished: '2016-06-11T15:14:29.119Z'
+dateModified: '2016-06-11T14:45:35.698Z'
 title: The purpose centered life
 author: []
 sourcePath: _posts/2016-04-30-i-do-not-receive-glory-from-men.md
