@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-11T08:51:07.059Z'
-datePublished: '2016-06-11T08:51:16.574Z'
+dateModified: '2016-06-11T09:19:29.967Z'
+datePublished: '2016-06-11T09:19:37.854Z'
 description: ''
 inFeed: true
 title: >-
@@ -16,8 +16,6 @@ _type: Article
 ---
 # In the beginning was the Word, and the Word was with God, and the Word was God.
 
-### Λόγος
+## Logos
 
-### Logos
-
-### Word
+## Word
