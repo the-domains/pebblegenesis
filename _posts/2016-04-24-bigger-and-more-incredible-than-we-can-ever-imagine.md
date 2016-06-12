@@ -1,13 +1,15 @@
 ---
 authors: []
-dateModified: '2016-05-25T13:22:14.316Z'
-datePublished: '2016-05-25T13:24:23.253Z'
-description: And their expanse is declaring the work of His hands
+dateModified: '2016-06-12T07:48:32.361Z'
+datePublished: '2016-06-12T07:48:42.715Z'
+description: ''
 hasPage: true
 inFeed: true
 inNav: true
 keywords: []
-title: Psalm 19
+title: >-
+  He is the radiance of His glory and the exact representation of His nature,
+  and upholds all things by the word of His power. 
 author: []
 starred: false
 sourcePath: _posts/2016-04-24-bigger-and-more-incredible-than-we-can-ever-imagine.md
@@ -16,22 +18,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fe2e5c-1171-4d42-9043-553d7ed17e92.jpg)
+# He is the radiance of His glory and the exact representation of His nature, and upholds all things by the word of His power. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/daeda79de020a3b458c3b061f1b861fe3338be29.jpg)
 
-# [Psalm 19][0]
-
-### The heavens declare the glory of God;
-
-### And their expanse is declaring the work of His hands
-
-And their expanse is declaring the work of His hands
-
-Day after day they pour forth speech;
-
-night after night they reveal knowledge.
-
-_They have no speech, they use no words;_
-
-_no sound is heard from them._
-
-[0]: null
+http://biblehub.com/hebrews/1-3.htm
