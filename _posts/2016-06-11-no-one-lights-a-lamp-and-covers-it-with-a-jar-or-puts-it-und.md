@@ -5,11 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-12T08:50:58.887Z'
-dateModified: '2016-06-12T08:50:49.244Z'
-title: >-
-  Transformation begins in the mind being enlightened. It is a work of the
-  Spirit laying down a foundation of grace and mercy. So man can not boast.
+datePublished: '2016-06-17T08:12:55.874Z'
+dateModified: '2016-06-17T08:12:42.207Z'
+title: 'The Spirit lays down the foundation of grace and mercy so man can not boast. '
 author: []
 sourcePath: >-
   _posts/2016-06-11-no-one-lights-a-lamp-and-covers-it-with-a-jar-or-puts-it-und.md
@@ -21,9 +19,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Transformation begins in the mind being enlightened. It is a work of the Spirit laying down a foundation of grace and mercy. So man can not boast.
+# The Spirit lays down the foundation of grace and mercy so man can not boast. 
 
-# A connection happens when our eyes are opened.
+# A connection happens when our eyes are opened and we see the glory is about His glory.
 
 # We proclaim this glory is the transforming power of our lives.
 
