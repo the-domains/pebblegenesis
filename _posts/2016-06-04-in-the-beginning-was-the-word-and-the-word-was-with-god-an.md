@@ -5,9 +5,12 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-12T11:18:03.567Z'
-dateModified: '2016-06-12T08:52:37.975Z'
+description: >-
+  What was from the beginning, what we have heard, what we have seen with our
+  eyes, what we have looked at and touched with our hands, concerning the Word
+  of Life.  
+datePublished: '2016-06-20T09:33:07.743Z'
+dateModified: '2016-06-20T09:32:44.402Z'
 title: >-
   In the beginning was the Word, and the Word was with God, and the Word was
   God.
@@ -23,5 +26,4 @@ _type: Article
 ---
 # In the beginning was the Word, and the Word was with God, and the Word was God.
 
-* Word logos
-* What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life
+What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life.
