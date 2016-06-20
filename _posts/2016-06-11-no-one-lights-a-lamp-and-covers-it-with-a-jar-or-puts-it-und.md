@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://biblehub.com/zechariah/4-6.htm'
-datePublished: '2016-06-20T09:09:55.043Z'
-dateModified: '2016-06-20T09:09:44.338Z'
+datePublished: '2016-06-20T09:17:27.850Z'
+dateModified: '2016-06-20T09:17:05.856Z'
 title: 'The Spirit lays down the foundation of grace and mercy so man can not boast. '
 author: []
 sourcePath: >-
@@ -25,8 +25,12 @@ _type: Article
 
 http://biblehub.com/zechariah/4-6.htm
 
-# A connection happens when our eyes are opened and we see the glory is about His glory.
+## A connection happens when our eyes are opened and we see the glory is about His glory.
 
-# We proclaim this glory is the transforming power of our lives.
+## We proclaim this glory is the transforming power of our lives.
 
 ## Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship.
+
+What He has already accomplished, no labor from man is required.
+
+# We hear the voice, "Be diligent to enter into the rest. For I have now removed every obstacle by my Spirit by sending the Son in the event of the cross".
