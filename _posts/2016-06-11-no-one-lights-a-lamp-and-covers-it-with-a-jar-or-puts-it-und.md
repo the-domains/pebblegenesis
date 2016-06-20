@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-17T08:14:06.674Z'
-dateModified: '2016-06-17T08:13:54.285Z'
+datePublished: '2016-06-20T09:09:01.753Z'
+dateModified: '2016-06-19T17:13:31.029Z'
 title: ''
 author: []
 sourcePath: >-
@@ -20,8 +20,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d6e68f-509a-46b3-892a-c8b7430575df.jpg)
-
-# 
 
 # The Spirit lays down the foundation of grace and mercy so man can not boast. 
 
