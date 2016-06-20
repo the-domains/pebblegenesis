@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://biblehub.com/zechariah/4-6.htm'
-datePublished: '2016-06-20T09:17:27.850Z'
-dateModified: '2016-06-20T09:17:05.856Z'
+datePublished: '2016-06-20T09:17:43.888Z'
+dateModified: '2016-06-20T09:17:34.191Z'
 title: 'The Spirit lays down the foundation of grace and mercy so man can not boast. '
 author: []
 sourcePath: >-
