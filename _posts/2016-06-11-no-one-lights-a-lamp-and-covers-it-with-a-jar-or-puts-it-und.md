@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://biblehub.com/zechariah/4-6.htm'
-datePublished: '2016-06-20T09:17:43.888Z'
-dateModified: '2016-06-20T09:17:34.191Z'
+datePublished: '2016-06-20T09:19:55.363Z'
+dateModified: '2016-06-20T09:19:48.026Z'
 title: 'The Spirit lays down the foundation of grace and mercy so man can not boast. '
 author: []
 sourcePath: >-
   _posts/2016-06-11-no-one-lights-a-lamp-and-covers-it-with-a-jar-or-puts-it-und.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: we-proclaim-this-glory-is-the-transforming-power-of-our-live/index.html
 _context: 'http://schema.org'
 _type: Article
