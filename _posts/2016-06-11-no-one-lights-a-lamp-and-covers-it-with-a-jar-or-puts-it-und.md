@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://biblehub.com/zechariah/4-6.htm'
-datePublished: '2016-06-20T09:19:55.363Z'
-dateModified: '2016-06-20T09:19:48.026Z'
+datePublished: '2016-06-20T09:36:00.632Z'
+dateModified: '2016-06-20T09:35:50.075Z'
 title: 'The Spirit lays down the foundation of grace and mercy so man can not boast. '
 author: []
 sourcePath: >-
@@ -33,4 +33,4 @@ http://biblehub.com/zechariah/4-6.htm
 
 What He has already accomplished, no labor from man is required.
 
-# We hear the voice, "Be diligent to enter into the rest. For I have now removed every obstacle by my Spirit by sending the Son in the event of the cross".
+# We hear the voice, "Be diligent to enter into the rest. For I have now removed every obstacle by my Spirit by sending the Son who proclaims it is finished".
