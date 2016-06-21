@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T09:33:51.534Z'
-dateModified: '2016-06-20T09:33:07.955Z'
+datePublished: '2016-06-21T02:48:30.815Z'
+dateModified: '2016-06-20T09:34:00.424Z'
 title: >-
   In the beginning was the Word, and the Word was with God, and the Word was
   God.
