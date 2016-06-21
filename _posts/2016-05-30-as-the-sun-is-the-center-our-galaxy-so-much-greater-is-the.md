@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-12T11:18:09.469Z'
-dateModified: '2016-06-12T08:53:29.398Z'
+datePublished: '2016-06-21T01:03:59.916Z'
+dateModified: '2016-06-20T09:40:27.581Z'
 title: >-
-  But it is a gift from the Highest that the word can reveal the power and glory
-  of centrality of Jesus Christ being everything to all of life.
+  He is the radiance of His glory and the exact representation of His nature,
+  and upholds all things by the word of His power.
 author: []
 sourcePath: >-
   _posts/2016-05-30-as-the-sun-is-the-center-our-galaxy-so-much-greater-is-the.md
@@ -21,7 +21,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# But it is a gift from the Highest that the word can reveal the power and glory of centrality of Jesus Christ being everything to all of life.
+## The Holy Grail is a gift from the Highest that the word can reveal the power and glory of centrality of Jesus Christ being everything to all of life.
 
 # He is the radiance of His glory and the exact representation of His nature, and upholds all things by the word of His power.
 
