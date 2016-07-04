@@ -1,20 +1,16 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-06-29T02:48:41.164Z'
+datePublished: '2016-07-04T11:56:58.862Z'
+description: The Splendor of the King clothed in majesty
 hasPage: false
+inFeed: true
 inNav: false
 isBasedOnUrl: ''
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-11T08:30:29.763Z'
-dateModified: '2016-06-11T08:28:26.617Z'
-title: centered on the glory forever and ever...
-author:
-  - name: ''
-    url: ''
+title: How great is our God
+author: []
 sourcePath: _posts/2016-05-23-centered-on-the-glory.md
-authors: []
-publisher: null
 starred: false
 _context: 'http://schema.org'
 _type: Article
@@ -30,7 +26,7 @@ _type: Article
 
 [He wraps Himself in light and darkness tries to hide][0]
 
-[And trembles at His voice ][0]
+[And trembles at His voice][0]
 
 [And trembles at His voice][0]
 
